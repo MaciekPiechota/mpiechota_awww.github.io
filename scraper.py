@@ -64,10 +64,12 @@ def save_as_markdown(langs_info):
     markdown_text = f"# Popular Programing Languages\n\n"
     markdown_text += "This is a list of most populat programing languages according to TIOBE index :). \n\n"
     markdown_text += "I hope you find your favorite one :))). \n\n"
+    idx = 1
     for key, lang_info in langs_info.items():
-        markdown_text += f"### **[{key}]({key}.md)**\n\n"
-        markdown_text += f"### **[original website]({lang_info['website']})**\n\n"
+        markdown_text += f"### **[{idx}. {key}]({key}.md)** "
         markdown_text += f"![Language Icon](img/{key}.png)\n\n"
+        markdown_text += f"### **[original website]({lang_info['website']})**\n\n"
+        markdown_text += f"---\n"
 
         subsite_text = f"# {key} \n\n"
 
@@ -78,6 +80,8 @@ def save_as_markdown(langs_info):
 
         with open(f"{key}.md", 'w') as file:
             file.write(subsite_text)
+
+        idx += 1
 
     with open("popular_languages.md", 'w') as file:
         file.write(markdown_text)
