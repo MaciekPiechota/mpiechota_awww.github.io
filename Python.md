@@ -12,4 +12,4 @@ Guido van Rossum began working on Python in the late 1980s as a successor to the
 Python consistently ranks as one of the most popular programming languages, and has gained widespread use in the machine learning community.[36][37][38][39]
  
 
-**[main list](popular_languages.md)
+[main list](popular_languages.md)

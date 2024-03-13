@@ -12,4 +12,4 @@ As of November 2023,[update] the most recent stable version of the language is C
 The Ecma standard lists these design goals for C#:[17]
  
 
-**[main list](popular_languages.md)
+[main list](popular_languages.md)

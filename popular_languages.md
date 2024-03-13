@@ -1,4 +1,8 @@
-# Popular Programing Languages :computer: 
+# Popular Programing Languages
+
+This is a list of most populat programing languages according to TIOBE index :). 
+
+I hope you find your favorite one :))). 
 
 ## Python
 

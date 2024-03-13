@@ -12,4 +12,4 @@ C is an imperative procedural language, supporting structured programming, lexic
 Since 2000, C has consistently ranked among the top two languages in the TIOBE index, a measure of the popularity of programming languages.[13]
  
 
-**[main list](popular_languages.md)
+[main list](popular_languages.md)
