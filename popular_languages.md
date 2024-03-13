@@ -4,33 +4,27 @@ This is a list of most populat programing languages according to TIOBE index :).
 
 I hope you find your favorite one :))). 
 
-## Python
+### **[Python](Python.md)**
 
 ### **[original website](https://en.wikipedia.org/wiki/Python_(programming_language))**
 
-### **[details](Python.md)**
+![Language Icon](Python.png)
 
-## C
+### **[C](C.md)**
 
 ### **[original website](https://en.wikipedia.org/wiki/C_(programming_language))**
 
-### **[details](C.md)**
+![Language Icon](C.png)
 
-## C++
+### **[C++](C++.md)**
 
 ### **[original website](https://en.wikipedia.org/wiki/C++)**
 
-### **[details](C++.md)**
+![Language Icon](C++.png)
 
-## Java
+### **[Java](Java.md)**
 
 ### **[original website](https://en.wikipedia.org/wiki/Java_(programming_language))**
 
-### **[details](Java.md)**
-
-## C#
-
-### **[original website](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))**
-
-### **[details](C#.md)**
+![Language Icon](Java.png)
 
