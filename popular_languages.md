@@ -8,23 +8,23 @@ I hope you find your favorite one :))).
 
 ### **[original website](https://en.wikipedia.org/wiki/Python_(programming_language))**
 
-![Language Icon](Python.png)
+![Language Icon](img/Python.png)
 
 ### **[C](C.md)**
 
 ### **[original website](https://en.wikipedia.org/wiki/C_(programming_language))**
 
-![Language Icon](C.png)
+![Language Icon](img/C.png)
 
 ### **[C++](C++.md)**
 
 ### **[original website](https://en.wikipedia.org/wiki/C++)**
 
-![Language Icon](C++.png)
+![Language Icon](img/C++.png)
 
 ### **[Java](Java.md)**
 
 ### **[original website](https://en.wikipedia.org/wiki/Java_(programming_language))**
 
-![Language Icon](Java.png)
+![Language Icon](img/Java.png)
 
